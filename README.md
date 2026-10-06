@@ -84,6 +84,5 @@
 
 ## Tipy
 
-- Jeden repozitár, priečinok na deň (`day-01-todo`).
-- Commituj každý deň.
-- V náročných dňoch urob len základ.
+- Jeden repozitár, priečinok na projekt (`day-01-todo`).
+
