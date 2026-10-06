@@ -1,6 +1,6 @@
 # TikTokDaily
 
-# Plán denných programátorských projektov (6. okt – 30. nov 2026)
+# Plán denných projektov (6. okt – 30. nov 2026)
 
 ## 1. týždeň: Python a CLI
 
